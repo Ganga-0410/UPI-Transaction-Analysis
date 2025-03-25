@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/287c71aa-410b-4e0f-87fc-ac487f372dfc)
 
 ## 📌 Project Overview
-This Power BI dashboard provides an in-depth analysis of UPI transactions, visualizing key insights such as spending trends, payment method preferences, failure rates, and merchant-wise transactions. The dashboard enables users to track transaction patterns, identify issues, and optimize digital payment experiences.
+Analyzed 10,000+ UPI transactions across cities, genders, and statuses using Python, Pandas, and Matplotlib to uncover digital payment trends. Also Power BI dashboard provides an in-depth analysis of UPI transactions, visualizing key insights such as spending trends, payment method preferences, failure rates, and merchant-wise transactions. The dashboard enables users to track transaction patterns, identify issues, and optimize digital payment experiences.
 
 ## 📊 Key Features
 - **📈 Amount Spending Trend Using UPI**: A line chart displaying the monthly trend of transaction amounts.
@@ -11,6 +11,13 @@ This Power BI dashboard provides an in-depth analysis of UPI transactions, visua
 - **⚠️ Failure Rate by Month-Year**: A KPI visualization tracking the failure rate of transactions over time.
 - **📍 City-Wise Transactions Trend**: A geographical map highlighting transaction volumes across different cities.
 - **🧑‍💼 UPI Trend Based on Age**: A combined bar and line chart showing transaction amounts segmented by customer age groups.
+
+# 🔹 Key KPIs & Insights:
+✅ Success Rate: 📈 85% of transactions were successful
+✅ Failure Rate: ❌ 15% failed, with higher failures in certain cities
+✅ Highest Transaction City: 🏙️ Mumbai with ₹4M+ in transactions
+✅ Gender Trends: 👨 Males accounted for 70% of the total transaction amount
+✅ Common Failure Reasons: 🔄 Network issues & insufficient balance
 
 ## 🛠️ Tech Stack
 - **🔹 Power BI**: Used for data visualization and interactive dashboard creation.
