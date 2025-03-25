@@ -12,11 +12,15 @@ Analyzed 10,000+ UPI transactions across cities, genders, and statuses using Pyt
 - **📍 City-Wise Transactions Trend**: A geographical map highlighting transaction volumes across different cities.
 - **🧑‍💼 UPI Trend Based on Age**: A combined bar and line chart showing transaction amounts segmented by customer age groups.
 
-# 🔹 Key KPIs & Insights:
+# 🔹Key KPIs & Insights:
 ✅ Success Rate: 📈 85% of transactions were successful
+ 
 ✅ Failure Rate: ❌ 15% failed, with higher failures in certain cities
+
 ✅ Highest Transaction City: 🏙️ Mumbai with ₹4M+ in transactions
+
 ✅ Gender Trends: 👨 Males accounted for 70% of the total transaction amount
+
 ✅ Common Failure Reasons: 🔄 Network issues & insufficient balance
 
 ## 🛠️ Tech Stack
